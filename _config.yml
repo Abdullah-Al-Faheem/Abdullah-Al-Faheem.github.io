@@ -28,13 +28,13 @@ url: "https://Abdullah-Al-Faheem.github.io"
 github:
   username: Abdullah-Al-Faheem # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Abdullah Al Fahim
+  name: Abdullah Al Faheem
   email: abdullahalfaheem9@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
