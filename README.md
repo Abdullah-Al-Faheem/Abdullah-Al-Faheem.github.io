@@ -4,7 +4,7 @@
 
 ## Usage
 
-Used theme: [chirpy][chirpy]
+Used theme: [chirpy][chirpy]\
 Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
 ## License
