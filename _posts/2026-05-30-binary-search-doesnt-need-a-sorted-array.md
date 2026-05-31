@@ -6,8 +6,6 @@ categories: [blog, cp]
 tags: [cp]
 ---
 
-# Binary Search on a Mountain Array
-
 I used to think binary search only worked on sorted (non-decreasing) arrays. 
 Recently, I found an interesting application: binary search can also be used to find the peak of a mountain array.
 
