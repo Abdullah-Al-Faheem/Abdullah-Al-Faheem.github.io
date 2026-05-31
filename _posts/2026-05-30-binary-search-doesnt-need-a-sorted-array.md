@@ -58,6 +58,6 @@ The idea is simple: compare two consecutive elements and determine whether the s
 
 Related resources:
 
-- Related problem: https://codeforces.com/contest/2232/problem/C2
-- My solution: https://codeforces.com/contest/2232/submission/376757771
-- Editorial: https://codeforces.com/blog/entry/154128
+- [Related problem: CF-2232/C2](https://codeforces.com/contest/2232/problem/C2)
+- [My solution](https://codeforces.com/contest/2232/submission/376757771)
+- [Editorial of C2](https://codeforces.com/blog/entry/154128)
