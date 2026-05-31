@@ -13,10 +13,7 @@ A mountain array is an array that first increases and then decreases.
 
 Formally,
 
-$$
-a_1 \le a_2 \le a_3 \le \cdots \le a_{peak}
-\ge \cdots \ge a_{n-2} \ge a_{n-1} \ge a_n
-$$
+$a_1 \leq a_2 \leq a_3 \leq \cdots \leq a_{peak} \geq \cdots \geq a_{n-2} \geq a_{n-1} \geq a_n$
 
 Consider the following array:
 
